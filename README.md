@@ -1,5 +1,5 @@
 # UDP Pinger Lab
-
+- A Python program that simulates a UDP pinger by sending timestamped UDP packets to a target host and measuring round-trip time and packet loss based on received responses.
 ----
 
 # AUTHOR INFO
